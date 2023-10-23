@@ -94,8 +94,11 @@ Continuing from BH23, we attempted to create pathway diagrams and develop a tech
 ### Drawing diagram manually by current system
 
 We have created a pathway diagram for non-model organisms.
-(Current status should be added)
-The diagram is expected to serve as a good model case to test the system currently being created.
+~~(Current status should be added)~~
+Specifically, the steroid hormones biosynthesis pathway in teleost fish was depicted by pathvisio (v3.3.0).
+This diagram also includes the mevalonate pathway, which is essential for the synthesis of cholesterol, a precursor of steroid hormones.
+Several reports on the identification of steroid synthesis pathways in gonads and steroid-metabolizing enzymes exist for several teleost fish species. 
+The diagram is, therefore, expected to serve as a good model case to test the system currently being created.
 
 ### txt2gpml: pathway XML generator
 
