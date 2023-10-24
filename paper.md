@@ -81,7 +81,7 @@ At BH23.9, we worked on the following points towards the development of pathway 
 Currently, pathway diagrams in the manuscripts are drawn by general-purpose software, which includes Illustrator, PowerPoint and so on.
 These softwares output pathway diagrams in image format (PDF, png and jpeg), and thus these cannot be re-use for other purpose.
 Therefore, in order to be utilized in other purpose, researchers are encouraged to create pathway diagrams in reusable formats such as XML (GPML: Graphical Pathway Markup Language).
-The WikiPathways project already has such software called PathVisio [@PathVisio3].
+The WikiPathways project already has such software called PathVisio [@PathVisio].
 
 We gave a brief tutorial how to draw pathway diagrams by PathVisio (version3.3.0) in BH23.9.
 In model organisms, genes and metabolites are already resistered in public DBs and we can assign those IDs to boxes in pathway diagrams while those gene IDs cannot be assigned in non-model organisms as they are not in public DBs.
