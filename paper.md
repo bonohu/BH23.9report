@@ -39,7 +39,7 @@ Moreover they cannot accept third party annotation of those data.
 A practical system for pathway analyses is therefore really needed.
 
 Following on from the previous BioHackathon (BH23), we first discussed how to create a database of pathway information in non-model species in a domestic version of the BioHackathon called BH23.9 held in Shirahama, Wakayama, Japan (25-29 September 2023).
-We then gave a tutorial on how to write a pathway diagram using Pathvisio, which is a free open-source pathway analysis and drawing software which allows drawing, editing, and analyzing biological pathways. 
+We then gave a tutorial on how to write a pathway diagram using PathVisio, which is a free open-source pathway analysis and drawing software which allows drawing, editing, and analyzing biological pathways. 
 Finally we tried to establish the conversion system from text data to Graphical Pathway Markup Language (PGML), which is called `txt2pgml`.
 `txt2pgml` will drastically reduce the time and effort required to create pathway diagrams.
 
@@ -60,7 +60,7 @@ First of all, no pathway diagrams exist for target pathway.
 Moreover, any modification for existing pathway diagrams allowed and it is not free for bulk download.
 So many obstacles exist for using KEGG.
 
-We sought a proper system to make the database for our purose to see that WikiPathways is the best. 
+We looked for a suitable system to create a database for our researchers to ensure that WikiPathways would be the best fit.
 It is because WikiPathways is an open science platform for biological pathways contributed, updated, and used by the research community [@WikiPathways].
 We invited Dr. Pico Alex to BH23 to learn WikiPathways more deeply and discuss the collaboration in the study of non-model organisms [@BH23rep].
 After the stimulus discussion in BH23, we plan to make a practical usecase and pathway XML generator.
