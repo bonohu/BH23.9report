@@ -19,10 +19,10 @@ affiliations:
     index: 1
   - name: Graduate School of Integrated Sciences for Life, Hiroshima University, Hiroshima, Japan
     index: 2
-date: 02 October 2023
+date: 24 October 2023
 bibliography: paper.bib
-event: Aomori2021
-biohackathon_name: "DBCLS domestic BioHackathon"
+event: BH23.9
+biohackathon_name: "DBCLS domestic BioHackathon BH23.9"
 biohackathon_url:   "https://github.com/dbcls/bh23.9/"
 biohackathon_location: "Shirahama, Wakayama, Japan"
 group: Quantitative Pathway group
@@ -67,7 +67,7 @@ We invited Dr. Pico Alex to BH23 to learn WikiPathways more deeply and discuss t
 After the stimulus discussion in BH23, we plan to make a practical usecase and pathway XML generator.
 Following that situation, we gave the tutorial for the use of pathway diagram drawing software and developed the pathway XML generator in BH23.9.
 
-# Results
+# Results and Discussion
 
 In 2023, we could hold both the international and domestic BioHackathons successfully (BH23 and BH23.9 respectively).
 Following stimulus discussion at BH23 in Shodoshima summerized in our report [@BH23rep], we continued discussion at BH23.9 in Shirahama.
@@ -83,7 +83,7 @@ These softwares output pathway diagrams in image format (PDF, png and jpeg), and
 Therefore, in order to be utilized in other purpose, researchers are encouraged to create pathway diagrams in reusable formats such as XML (GPML: Graphical Pathway Markup Language).
 The WikiPathways project already has such software called PathVisio [@PathVisio3].
 
-We gave a brief tutorial how to draw pathway diagrams by PathVisio (version3.3) in BH23.9.
+We gave a brief tutorial how to draw pathway diagrams by PathVisio (version3.3.0) in BH23.9.
 In model organisms, genes and metabolites are already resistered in public DBs and we can assign those IDs to boxes in pathway diagrams while those gene IDs cannot be assigned in non-model organisms as they are not in public DBs.
 We will tackle this issue in the next stage.
 
@@ -94,8 +94,7 @@ Continuing from BH23, we attempted to create pathway diagrams and develop a tech
 ### Drawing diagram manually by current system
 
 We have created a pathway diagram for non-model organisms.
-~~(Current status should be added)~~
-Specifically, the steroid hormones biosynthesis pathway in teleost fish was depicted by pathvisio (v3.3.0).
+Specifically, the steroid hormones biosynthesis pathway in teleost fish was depicted by PathVisio (version3.3.0).
 This diagram also includes the mevalonate pathway, which is essential for the synthesis of cholesterol, a precursor of steroid hormones.
 Several reports on the identification of steroid synthesis pathways in gonads and steroid-metabolizing enzymes exist for several teleost fish species. 
 The diagram is, therefore, expected to serve as a good model case to test the system currently being created.
