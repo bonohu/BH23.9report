@@ -60,7 +60,7 @@ First of all, no pathway diagrams exist for target pathway.
 Moreover, any modification for existing pathway diagrams allowed and it is not free for bulk download.
 So many obstacles exist for using KEGG.
 
-We looked for a suitable system to create a database for our researchers to ensure that WikiPathways would be the best fit.
+We looked for a suitable system to create a database for our researches to ensure that WikiPathways would be the best fit.
 It is because WikiPathways is an open science platform for biological pathways contributed, updated, and used by the research community [@WikiPathways].
 We invited Dr. Pico Alex to BH23 to learn WikiPathways more deeply and discuss the collaboration in the study of non-model organisms [@BH23rep].
 After the stimulus discussion in BH23, we plan to make a practical usecase and pathway XML generator.
