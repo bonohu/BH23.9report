@@ -56,9 +56,8 @@ While only the category of genes are used for enrichment analysis of differentia
 For that purpose, KEGG is enoguth in addition to the gene annotation of Gene Ontology (GO) [@GeneOntology].
 
 However, KEGG is not suffcient for detailed pathway analysis in non-model organisms.
-- No pathway diagrams exist for target pathway.
-- Any modification for existing pathway diagrams allowed.
-- Not free for bulk download.
+First of all, no pathway diagrams exist for target pathway.
+Moreover, any modification for existing pathway diagrams allowed and it is not free for bulk download.
 So many obstacles exist for using KEGG.
 
 We sought a proper system to make the database for our purose to see that WikiPathways is the best. 
