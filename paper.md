@@ -40,7 +40,7 @@ A practical system for pathway analyses is therefore really needed.
 
 Following on from the previous BioHackathon (BH23), we first discussed how to create a database of pathway information in non-model species in a domestic version of the BioHackathon called BH23.9 held in Shirahama, Wakayama, Japan (25-29 September 2023).
 We then gave a tutorial on how to write a pathway diagram using PathVisio, which is a free open-source pathway analysis and drawing software which allows drawing, editing, and analyzing biological pathways. 
-Finally we tried to establish the conversion system from text data to Graphical Pathway Markup Language (PGML), which is called `txt2pgml`.
+Finally we tried to establish the conversion system from text data to Graphical Pathway Markup Language (GPML), which is called `txt2pgml`.
 `txt2pgml` will drastically reduce the time and effort required to create pathway diagrams.
 
 After a stimulus discussion in BH23 and BH23.9, we could clarify the current issues in the pathway analysis for non-model organisms.
@@ -151,7 +151,7 @@ By the text above, GPML for PathVisio (WikiPathways) can be generated and pathwa
 # Conclusion
 
 After a stimulus discussion in BH23.9, we could clarify the current issues in the pathway data analysis for non-model organisms.
-We tried to establish the conversion system from text data to Graphical Pathway Markup Language (PGML), which is called `txt2pgml`.
+We tried to establish the conversion system from text data to Graphical Pathway Markup Language (GPML), which is called `txt2pgml`.
 `txt2pgml` will drastically reduce the time and effort required to create pathway diagrams.
 
 # Future work
